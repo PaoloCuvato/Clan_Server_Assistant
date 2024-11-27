@@ -31,13 +31,12 @@ Java – Core programming language.
 JDA (Java Discord API) – Library for interacting with the Discord API.
 Lombok – Simplifies the management of getters and setters.
 HashMap – Used for in-memory storage and management of clans.
+
 📦 Installation:
-Clone the repository:
-bash
-Copia codice
-git clone https://github.com/username/clan-management-bot.git
+Clone the repository: git clone https://github.com/username/clan-management-bot.git
 Import the project into a Java IDE (IntelliJ, Eclipse, etc.).
 Configure the bot token in the configuration file.
 Run the bot through the Main class.
+
 📝 Contribution:
 Contributions are welcome! Feel free to submit a pull request or report issues via the Issues tab on GitHub.
